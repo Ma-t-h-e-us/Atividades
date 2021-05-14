@@ -4,6 +4,7 @@ namespace Ex_SistemaDeProdutos
 {
     class Program
     {
+        static int adicaoProdutos = 0;
         static int quantMax = 10;
         static int i = 0;
         static int a = 0;
@@ -52,7 +53,7 @@ m e n u
         }
         static void cadastrar()
         {
-            for (i = 0; i <= quantMax;)
+            for (i = 0; i <= quantMax + adicaoProdutos;)
             {
                 Console.WriteLine($"você ainda pode fazer {quantMax + a} cadastros.");
                 Console.WriteLine("Nome:");
@@ -81,6 +82,22 @@ m e n u
                 }
                 else
                 {
+                    if (quantMax + a == 1)
+                    {
+                        Console.WriteLine("O console está cheio, deseja cadastrar mais produtos? (sim/não)");
+                        string resposta3 = Console.ReadLine().ToLower().Substring(0, 1);
+                        if (resposta3 == "s")
+                        {
+                            Console.WriteLine("deseja cadastrar quantos produtos a mais?");
+                            adicaoProdutos = int.Parse(Console.ReadLine());
+                            Array.Resize(ref nomeP, quantMax + adicaoProdutos); 
+                            Array.Resize(ref preco, quantMax + adicaoProdutos); 
+                            Array.Resize(ref promocao, quantMax + adicaoProdutos); 
+                            a += adicaoProdutos;
+                        } else {
+                            break;
+                        }
+                    }
                     i++;
                     a--;
                 }
