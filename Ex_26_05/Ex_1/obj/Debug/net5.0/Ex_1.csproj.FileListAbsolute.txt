@@ -1,0 +1,16 @@
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Atividades\Ex_26_05\Ex_1\bin\Debug\net5.0\Ex_1.exe
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Atividades\Ex_26_05\Ex_1\bin\Debug\net5.0\Ex_1.deps.json
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Atividades\Ex_26_05\Ex_1\bin\Debug\net5.0\Ex_1.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Atividades\Ex_26_05\Ex_1\bin\Debug\net5.0\Ex_1.runtimeconfig.dev.json
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Atividades\Ex_26_05\Ex_1\bin\Debug\net5.0\Ex_1.dll
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Atividades\Ex_26_05\Ex_1\bin\Debug\net5.0\ref\Ex_1.dll
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Atividades\Ex_26_05\Ex_1\bin\Debug\net5.0\Ex_1.pdb
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Atividades\Ex_26_05\Ex_1\obj\Debug\net5.0\Ex_1.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Atividades\Ex_26_05\Ex_1\obj\Debug\net5.0\Ex_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Atividades\Ex_26_05\Ex_1\obj\Debug\net5.0\Ex_1.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Atividades\Ex_26_05\Ex_1\obj\Debug\net5.0\Ex_1.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Atividades\Ex_26_05\Ex_1\obj\Debug\net5.0\Ex_1.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Atividades\Ex_26_05\Ex_1\obj\Debug\net5.0\Ex_1.dll
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Atividades\Ex_26_05\Ex_1\obj\Debug\net5.0\ref\Ex_1.dll
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Atividades\Ex_26_05\Ex_1\obj\Debug\net5.0\Ex_1.pdb
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Atividades\Ex_26_05\Ex_1\obj\Debug\net5.0\Ex_1.genruntimeconfig.cache
